@@ -1,0 +1,27 @@
+[1.061s] Invoking command in '/home/bubblegum/ros2_ws/src/my_f1tenth_control': PYTHONPATH=/home/bubblegum/ros2_ws/build/my_f1tenth_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_f1tenth_control build --build-base /home/bubblegum/ros2_ws/build/my_f1tenth_control/build install --record /home/bubblegum/ros2_ws/build/my_f1tenth_control/install.log --install-scripts $base/lib/my_f1tenth_control --single-version-externally-managed install_data
+[1.269s] running egg_info
+[1.270s] writing ../../build/my_f1tenth_control/my_f1tenth_control.egg-info/PKG-INFO
+[1.270s] writing dependency_links to ../../build/my_f1tenth_control/my_f1tenth_control.egg-info/dependency_links.txt
+[1.270s] writing entry points to ../../build/my_f1tenth_control/my_f1tenth_control.egg-info/entry_points.txt
+[1.270s] writing requirements to ../../build/my_f1tenth_control/my_f1tenth_control.egg-info/requires.txt
+[1.270s] writing top-level names to ../../build/my_f1tenth_control/my_f1tenth_control.egg-info/top_level.txt
+[1.302s] reading manifest file '../../build/my_f1tenth_control/my_f1tenth_control.egg-info/SOURCES.txt'
+[1.308s] writing manifest file '../../build/my_f1tenth_control/my_f1tenth_control.egg-info/SOURCES.txt'
+[1.309s] running build
+[1.309s] running build_py
+[1.309s] copying my_f1tenth_control/image_saver.py -> /home/bubblegum/ros2_ws/build/my_f1tenth_control/build/lib/my_f1tenth_control
+[1.309s] running install
+[1.309s] running install_lib
+[1.310s] copying /home/bubblegum/ros2_ws/build/my_f1tenth_control/build/lib/my_f1tenth_control/image_saver.py -> /home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/python3.8/site-packages/my_f1tenth_control
+[1.311s] byte-compiling /home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/python3.8/site-packages/my_f1tenth_control/image_saver.py to image_saver.cpython-38.pyc
+[1.312s] running install_data
+[1.312s] running install_egg_info
+[1.313s] removing '/home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/python3.8/site-packages/my_f1tenth_control-0.0.0-py3.8.egg-info' (and everything under it)
+[1.314s] Copying ../../build/my_f1tenth_control/my_f1tenth_control.egg-info to /home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/python3.8/site-packages/my_f1tenth_control-0.0.0-py3.8.egg-info
+[1.314s] running install_scripts
+[1.336s] Installing f1tenth_init script to /home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/my_f1tenth_control
+[1.336s] Installing f1tenth_vlm_control script to /home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/my_f1tenth_control
+[1.336s] Installing image_saver script to /home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/my_f1tenth_control
+[1.336s] Installing test_run script to /home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/my_f1tenth_control
+[1.336s] writing list of installed files to '/home/bubblegum/ros2_ws/build/my_f1tenth_control/install.log'
+[1.352s] Invoked command in '/home/bubblegum/ros2_ws/src/my_f1tenth_control' returned '0': PYTHONPATH=/home/bubblegum/ros2_ws/build/my_f1tenth_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubblegum/ros2_ws/install/my_f1tenth_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_f1tenth_control build --build-base /home/bubblegum/ros2_ws/build/my_f1tenth_control/build install --record /home/bubblegum/ros2_ws/build/my_f1tenth_control/install.log --install-scripts $base/lib/my_f1tenth_control --single-version-externally-managed install_data

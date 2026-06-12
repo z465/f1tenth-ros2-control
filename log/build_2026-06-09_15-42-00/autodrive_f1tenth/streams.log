@@ -1,0 +1,23 @@
+[1.090s] Invoking command in '/home/bubblegum/ros2_ws/src/autodrive_ros2/autodrive_f1tenth': PS1=(.venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/bubblegum/ros2_ws/build/autodrive_f1tenth/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubblegum/ros2_ws/install/autodrive_f1tenth/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/autodrive_f1tenth build --build-base /home/bubblegum/ros2_ws/build/autodrive_f1tenth/build install --record /home/bubblegum/ros2_ws/build/autodrive_f1tenth/install.log --install-scripts $base/lib/autodrive_f1tenth --single-version-externally-managed install_data
+[1.320s] running egg_info
+[1.321s] writing ../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info/PKG-INFO
+[1.321s] writing dependency_links to ../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info/dependency_links.txt
+[1.321s] writing entry points to ../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info/entry_points.txt
+[1.321s] writing requirements to ../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info/requires.txt
+[1.321s] writing top-level names to ../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info/top_level.txt
+[1.364s] reading manifest file '../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info/SOURCES.txt'
+[1.364s] writing manifest file '../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info/SOURCES.txt'
+[1.364s] running build
+[1.365s] running build_py
+[1.365s] running install
+[1.365s] running install_lib
+[1.365s] running install_data
+[1.365s] running install_egg_info
+[1.367s] removing '/home/bubblegum/ros2_ws/install/autodrive_f1tenth/lib/python3.8/site-packages/autodrive_f1tenth-0.1.0-py3.8.egg-info' (and everything under it)
+[1.367s] Copying ../../../build/autodrive_f1tenth/autodrive_f1tenth.egg-info to /home/bubblegum/ros2_ws/install/autodrive_f1tenth/lib/python3.8/site-packages/autodrive_f1tenth-0.1.0-py3.8.egg-info
+[1.368s] running install_scripts
+[1.383s] Installing autodrive_incoming_bridge script to /home/bubblegum/ros2_ws/install/autodrive_f1tenth/lib/autodrive_f1tenth
+[1.383s] Installing autodrive_outgoing_bridge script to /home/bubblegum/ros2_ws/install/autodrive_f1tenth/lib/autodrive_f1tenth
+[1.383s] Installing teleop_keyboard script to /home/bubblegum/ros2_ws/install/autodrive_f1tenth/lib/autodrive_f1tenth
+[1.383s] writing list of installed files to '/home/bubblegum/ros2_ws/build/autodrive_f1tenth/install.log'
+[1.418s] Invoked command in '/home/bubblegum/ros2_ws/src/autodrive_ros2/autodrive_f1tenth' returned '0': PS1=(.venv) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/bubblegum/ros2_ws/build/autodrive_f1tenth/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubblegum/ros2_ws/install/autodrive_f1tenth/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/autodrive_f1tenth build --build-base /home/bubblegum/ros2_ws/build/autodrive_f1tenth/build install --record /home/bubblegum/ros2_ws/build/autodrive_f1tenth/install.log --install-scripts $base/lib/autodrive_f1tenth --single-version-externally-managed install_data

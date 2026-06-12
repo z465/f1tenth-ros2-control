@@ -1,0 +1,6 @@
+[console_scripts]
+f1tenth_init = my_f1tenth_control.f1tenth_init:main
+f1tenth_vlm_control = my_f1tenth_control.f1tenth_vlm_control:main
+image_saver = my_f1tenth_control.image_saver:main
+test_run = my_f1tenth_control.test_drive:main
+

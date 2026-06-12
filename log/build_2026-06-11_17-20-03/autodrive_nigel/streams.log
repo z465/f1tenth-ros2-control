@@ -1,0 +1,23 @@
+[0.940s] Invoking command in '/home/bubblegum/ros2_ws/src/autodrive_ros2/autodrive_nigel': PYTHONPATH=/home/bubblegum/ros2_ws/build/autodrive_nigel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubblegum/ros2_ws/install/autodrive_nigel/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/autodrive_nigel build --build-base /home/bubblegum/ros2_ws/build/autodrive_nigel/build install --record /home/bubblegum/ros2_ws/build/autodrive_nigel/install.log --install-scripts $base/lib/autodrive_nigel --single-version-externally-managed install_data
+[1.098s] running egg_info
+[1.098s] writing ../../../build/autodrive_nigel/autodrive_nigel.egg-info/PKG-INFO
+[1.099s] writing dependency_links to ../../../build/autodrive_nigel/autodrive_nigel.egg-info/dependency_links.txt
+[1.099s] writing entry points to ../../../build/autodrive_nigel/autodrive_nigel.egg-info/entry_points.txt
+[1.099s] writing requirements to ../../../build/autodrive_nigel/autodrive_nigel.egg-info/requires.txt
+[1.099s] writing top-level names to ../../../build/autodrive_nigel/autodrive_nigel.egg-info/top_level.txt
+[1.125s] reading manifest file '../../../build/autodrive_nigel/autodrive_nigel.egg-info/SOURCES.txt'
+[1.126s] writing manifest file '../../../build/autodrive_nigel/autodrive_nigel.egg-info/SOURCES.txt'
+[1.126s] running build
+[1.126s] running build_py
+[1.126s] running install
+[1.141s] running install_lib
+[1.141s] running install_data
+[1.141s] running install_egg_info
+[1.141s] removing '/home/bubblegum/ros2_ws/install/autodrive_nigel/lib/python3.8/site-packages/autodrive_nigel-0.1.0-py3.8.egg-info' (and everything under it)
+[1.141s] Copying ../../../build/autodrive_nigel/autodrive_nigel.egg-info to /home/bubblegum/ros2_ws/install/autodrive_nigel/lib/python3.8/site-packages/autodrive_nigel-0.1.0-py3.8.egg-info
+[1.145s] running install_scripts
+[1.162s] Installing autodrive_incoming_bridge script to /home/bubblegum/ros2_ws/install/autodrive_nigel/lib/autodrive_nigel
+[1.162s] Installing autodrive_outgoing_bridge script to /home/bubblegum/ros2_ws/install/autodrive_nigel/lib/autodrive_nigel
+[1.163s] Installing teleop_keyboard script to /home/bubblegum/ros2_ws/install/autodrive_nigel/lib/autodrive_nigel
+[1.168s] writing list of installed files to '/home/bubblegum/ros2_ws/build/autodrive_nigel/install.log'
+[1.198s] Invoked command in '/home/bubblegum/ros2_ws/src/autodrive_ros2/autodrive_nigel' returned '0': PYTHONPATH=/home/bubblegum/ros2_ws/build/autodrive_nigel/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bubblegum/ros2_ws/install/autodrive_nigel/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/autodrive_nigel build --build-base /home/bubblegum/ros2_ws/build/autodrive_nigel/build install --record /home/bubblegum/ros2_ws/build/autodrive_nigel/install.log --install-scripts $base/lib/autodrive_nigel --single-version-externally-managed install_data
